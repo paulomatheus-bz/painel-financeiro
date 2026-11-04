@@ -1,10 +1,14 @@
-<h1 align="center">Painel Financeiro</h1>
+<div align="center">
 
-<p align="center">Documentação pública da proposta de organização financeira e documental.</p>
+# Painel Financeiro
 
-<p align="center"><img alt="documentação" src="https://img.shields.io/badge/documenta%C3%A7%C3%A3o-65A30D?style=flat-square&labelColor=111827" /> <img alt="financeiro" src="https://img.shields.io/badge/financeiro-65A30D?style=flat-square&labelColor=111827" /></p>
+<p>Ferramentas de apoio à rotina financeira.</p>
 
-<table><tr><td><strong>Categoria</strong></td><td>GESTÃO</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
