@@ -2,7 +2,7 @@
 
 <p align="center">Documentação pública da proposta de organização financeira e documental.</p>
 
-<p align="center">![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-65A30D?style=flat-square&labelColor=111827) ![financeiro](https://img.shields.io/badge/financeiro-65A30D?style=flat-square&labelColor=111827)</p>
+<p align="center"><img alt="documentação" src="https://img.shields.io/badge/documenta%C3%A7%C3%A3o-65A30D?style=flat-square&labelColor=111827" /> <img alt="financeiro" src="https://img.shields.io/badge/financeiro-65A30D?style=flat-square&labelColor=111827" /></p>
 
 <table><tr><td><strong>Categoria</strong></td><td>GESTÃO</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
 
