@@ -8,9 +8,7 @@
 
 ---
 
-<!-- readme:project-navigation -->
 <p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
-<!-- /readme:project-navigation -->
 
 ## Sobre
 
@@ -18,11 +16,18 @@ Registro do painel financeiro criado para organizar tarefas administrativas e do
 
 ## Estado atual
 
-**Em organização.** Este repositório ainda guarda somente a documentação. O código-fonte não foi enviado.
+**Em organização.** Por enquanto, este repositório reúne a apresentação e as anotações do projeto. Os arquivos do site ainda não foram enviados.
 
-## Linguagens
+## Linguagens e ferramentas
 
-Nenhuma linguagem detectada: só há documentação neste repositório.
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+</p>
+
+A versão original usa esta stack. Neste repositório, porém, o código ainda está fora do versionamento.
 
 ## Próximo passo
 
