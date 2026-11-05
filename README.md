@@ -18,3 +18,6 @@ O painel reúne ferramentas para documentos e organização financeira. Não tra
 ## Código e linguagens
 
 Os arquivos completos da aplicação ainda não foram organizados neste repositório. Por isso, o GitHub não identifica linguagens a partir da fonte aqui disponível.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
