@@ -17,4 +17,8 @@ O painel reúne ferramentas para documentos e organização financeira. Não tra
 
 O código completo ainda não foi organizado neste repositório. A versão de produção está registrada no projeto correspondente. Não envie documentos reais, informações financeiras ou credenciais para o GitHub.
 
+## Continuidade do projeto
+
+As demonstrações devem continuar usando dados fictícios, e documentos financeiros não devem ser enviados ao GitHub. Quando o código-fonte for organizado neste repositório, vou documentar os requisitos e os testes dos conversores junto com as funcionalidades do painel.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
