@@ -1,6 +1,8 @@
+<div align="center">
+
 # Painel Financeiro
 
-Tecnologias da versão publicada:
+*Painel administrativo para apoiar a rotina financeira do Colégio Fantástico.*
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -9,15 +11,16 @@ Tecnologias da versão publicada:
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
 </p>
 
-Painel administrativo para apoiar a rotina financeira do Colégio Fantástico.
+</div>
 
+<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Versão publicada:** https://painel-financeiro-colegio-fantastic.vercel.app
 
 O painel reúne ferramentas para documentos e organização financeira. Não trata dados de alunos nem mensalidades. Os arquivos usados pelos conversores são processados no navegador.
 
 O código completo ainda não foi organizado neste repositório. A versão de produção está registrada no projeto correspondente. Não envie documentos reais, informações financeiras ou credenciais para o GitHub.
 
-## Continuidade do projeto
+## Demonstração e privacidade
 
 As demonstrações devem continuar usando dados fictícios, e documentos financeiros não devem ser enviados ao GitHub. Quando o código-fonte for organizado neste repositório, vou documentar os requisitos e os testes dos conversores junto com as funcionalidades do painel.
 
