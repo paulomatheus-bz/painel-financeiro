@@ -1,8 +1,8 @@
 <div align="center">
 
-# Painel Financeiro
+<p><sub>FERRAMENTA · FINANCEIRO</sub></p>
 
-*Painel administrativo para apoiar a rotina financeira do Colégio Fantástico.*
+# Painel Financeiro
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -10,6 +10,8 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F1720?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
 </p>
+
+*Painel administrativo para apoiar a rotina financeira do Colégio Fantástico.*
 
 </div>
 
