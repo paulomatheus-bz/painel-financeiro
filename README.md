@@ -1,7 +1,5 @@
 <div align="center">
 
-<p><sub>FERRAMENTA · FINANCEIRO</sub></p>
-
 # Painel Financeiro
 
 <p>
@@ -15,10 +13,10 @@
 
 </div>
 
-**Versão publicada:** https://painel-financeiro-colegio-fantastic.vercel.app
+**Painel:** https://painel-financeiro-colegio-fantastic.vercel.app
 
-O painel reúne ferramentas de organização financeira e conversão de documentos. Não trata dados de alunos ou mensalidades; os arquivos usados nos conversores são processados no navegador.
+Ferramentas de organização financeira e conversão de documentos. Não trata dados de alunos ou mensalidades; os arquivos dos conversores são processados no navegador.
 
-O código completo ainda não está neste repositório. Não envie documentos financeiros ou credenciais para o GitHub.
+O código ainda não foi organizado neste repositório. Não envie documentos financeiros ou credenciais para o GitHub.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
