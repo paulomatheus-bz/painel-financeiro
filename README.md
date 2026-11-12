@@ -19,4 +19,9 @@ Ferramentas de organização financeira e conversão de documentos. Não trata d
 
 O código ainda não foi organizado neste repositório. Não envie documentos financeiros ou credenciais para o GitHub.
 
+
+## Rotinas administrativas
+
+Interface de apoio financeiro com recursos de organização e tratamento local de documentos.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
